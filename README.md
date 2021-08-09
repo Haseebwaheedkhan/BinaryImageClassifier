@@ -1,14 +1,16 @@
 # BinaryImageClassifier
 Machine learning model that can classify between images of T-shirts and dress-shirts.
-Attached are given the following files:
+
+
+Here is the link to download following file: 
+https://drive.google.com/drive/folders/1GsAEzi02glVEH2FdtzC8WwSzzOmeDJlt?usp=sharing
+
 • TrainData.csv: It contains 12000 training examples. Each row contains 784 values. The dataset has been derived from Fashion-MNIST dataset. 
 Each example is a flattened 28x28 pixel gray-scale image. You can reshape the examples to visualize what each image looks
 like.
 • TrainLabels.csv: This file contains true labels for the examples in TrainExamples.csv
 • TestData.csv: This file contains test examples.
 
-# Clink on the link to download this file: 
-https://drive.google.com/drive/folders/1GsAEzi02glVEH2FdtzC8WwSzzOmeDJlt?usp=sharing
 
 Method
 • Model has been trained using your extracted features method i.e HOG. SVM and Logistic Regression models i.e classification techniques are used. 
